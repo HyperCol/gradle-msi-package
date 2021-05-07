@@ -1,7 +1,8 @@
 # Other languages
-[Chinese Simplified](readme.zh_cn.md)
-[Chinese Traditional](readme.zh_tw.md)
-[English](readme.md)
+- [Chinese Simplified](readme.zh_cn.md)
+- [Chinese Traditional](readme.zh_tw.md)
+- [English](readme.md)
+- [Japanese](readme.ja.md)
 
 # Bulid
 1. Clone this repository to an empty directory.

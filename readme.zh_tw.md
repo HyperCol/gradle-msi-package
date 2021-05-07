@@ -1,7 +1,8 @@
 # Other languages
-[Chinese Simplified](readme.zh_cn.md)
-[Chinese Traditional](readme.zh_tw.md)
-[English](readme.md)
+- [Chinese Simplified](readme.zh_cn.md)
+- [Chinese Traditional](readme.zh_tw.md)
+- [English](readme.md)
+- [Japanese](readme.ja.md)
 
 # 打包
 1. 將此源碼庫克隆到一個空資料夾。
